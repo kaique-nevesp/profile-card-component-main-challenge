@@ -31,7 +31,7 @@ main {
 }
 
 .profile-info img {
-    border-radius: 100%;
+    border-radius: 50%;
     width: 100px;
     border: 4px solid #ffffff;
     margin-top: -52px;
