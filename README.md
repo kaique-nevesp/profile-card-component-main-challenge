@@ -23,8 +23,8 @@ This project was a big challenge for me, especially because of the background an
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://www.frontendmentor.io/solutions/profile-card-component-solution-q66Z9eFTUm))
+- Live Site URL: ([https://your-live-site-url.com](https://kaique-nevesp.github.io/profile-card-component-main-challenge/))
 
 ## My process
 
