@@ -1,0 +1,5 @@
+@media (max-width: 435px) {
+    body {
+        background-position: -200px -100px, 200px 700px;
+    }
+}
