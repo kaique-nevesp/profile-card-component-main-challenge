@@ -5,24 +5,17 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## 🚀 Overview
 
 This project was a big challenge for me, especially because of the background and the profile picture positioning. I'm proud of the final result, but I know there's still plenty of room for improvement. So, I'm completely open to suggestions and feedback on how I can keep getting better.
-
-### The challenge
-
-- Build out the project to the designs provided
 
 ### 📸 Screenshot
 
